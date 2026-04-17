@@ -31,8 +31,3 @@ python -m unittest discover -v
 
 I wanted to practice writing clean, testable Python code and explore how edge cases and validation are handled in real systems.
 
-## Future Improvements
-
-* Convert into REST API (Flask/FastAPI)
-* Add persistent storage
-* Expand product types
