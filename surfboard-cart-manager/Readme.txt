@@ -1,6 +1,6 @@
 # Surfboard Cart Manager
 
-A simple Python-based shopping cart system built to explore object-oriented design and unit testing.
+A simple Python-based shopping cart system built to explore and learn object-oriented design and unit testing framework. 
 
 ## Features
 
@@ -27,7 +27,6 @@ python -m unittest discover -v
 * surfshop.py → core logic
 * test_surfshop.py → unit tests
 
-## Why I Built This
+## Why I Built This
 
-I wanted to practice writing clean, testable Python code and explore how edge cases and validation are handled in real systems.
-
+I build this while learning how to write a clean testable python code and python's unittest framework.
